@@ -1,0 +1,25 @@
+:root {
+    --branco-principal:#15ff00;
+    --cinza-secundrio:#b40000;
+    --botao-azul:#ff0000;
+    --cor-de-fundo:#000000f5;
+    --fonte-principal: "Inter";
+    
+    }
+    
+    body{
+    background-color: var(--cor-de-fundo);
+    color: var(--branco-principal);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
+    
+    
+    }
+    
+    *{
+    margin: 0;
+    padding: 0;
+    
+    }
+  
