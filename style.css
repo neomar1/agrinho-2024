@@ -16,10 +16,23 @@
     
     
     }
-    
-    *{
-    margin: 0;
-    padding: 0;
-    
-    }
-  
+    .container-titulo {
+        font-size: 4px;    
+        font-weight: 50;
+        
+        }
+     
+     
+     .container-texto{
+        font-size:30px;
+        font-weight:700;
+        text-align: center;
+     }
+     
+     
+     .container-titulo{
+        padding: 0px 0;
+        font-size: 60px;
+        text-align: center ;
+     }
+     
